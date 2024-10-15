@@ -1,4 +1,3 @@
-print ("Bai_1")
 def print_hello_star():
     print("**    **   ******   **       **       ******")
     print("**    **   **       **       **       **  **")
