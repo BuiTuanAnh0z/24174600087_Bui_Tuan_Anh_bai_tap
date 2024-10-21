@@ -1,6 +1,8 @@
 #Nhập bán kính và chiều cao 
-r = float (input("Nhập bán kính của khối trụ"))
-h = float (input("Nhập chiều cao của khối trụ"))
+r = input("Nhập bán kính của khối trụ : ")
+r = float(r)
+h = input("Nhập chiều cao của khối trụ : ")
+h = float(h)
 #Pi
 pi = 3.14 
 #Tính diện tích xung quanh
