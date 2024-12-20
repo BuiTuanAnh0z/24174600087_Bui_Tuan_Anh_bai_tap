@@ -1,4 +1,4 @@
-# Nhập một ký tự từ bàn phím
+# Nhập một ký tự 
 ky_tu = input("Nhập một ký tự: ")
 
 # Kiểm tra xem ký tự có phải là chữ cái trong bảng chữ cái tiếng Anh không

@@ -1,4 +1,4 @@
-# Nhập bán kính và chiều cao từ bàn phím
+# Nhập bán kính và chiều cao 
 r = float(input("Nhập bán kính của khối trụ: "))
 h = float(input("Nhập chiều cao của khối trụ: "))
 

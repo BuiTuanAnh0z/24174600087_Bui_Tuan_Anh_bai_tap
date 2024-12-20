@@ -1,4 +1,4 @@
-# Nhập ba số từ bàn phím
+# Nhập ba số 
 so_1 = float(input("Nhập số thứ nhất: "))
 so_2 = float(input("Nhập số thứ hai: "))
 so_3 = float(input("Nhập số thứ ba: "))

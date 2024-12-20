@@ -12,7 +12,8 @@ matrix_phep_tru_k = [[matrix[i][j] - k for j in range(len(matrix[i]))] for i in 
 # Nhân ma trận với số k
 matrix_phep_nhan_k = [[matrix[i][j] * k for j in range(len(matrix[i]))] for i in range(len(matrix))]
 # Chia ma trận với số k (cẩn thận với phép chia cho 0)
-matrix_phep_chia_k = [[matrix[i][j] / k if k != 0 else "undefined" for j in range(len(matrix[i]))] for i in range(len(matrix))]
+matrix_phep_chia_k = [[matrix[i][j] / k 
+if k != 0 else "undefined" for j in range(len(matrix[i]))] for i in range(len(matrix))]
 # In kết quả
 print("Cộng ma trận với k:", matrix_phep_cong_k)
 print("Trừ ma trận với k:", matrix_phep_tru_k)

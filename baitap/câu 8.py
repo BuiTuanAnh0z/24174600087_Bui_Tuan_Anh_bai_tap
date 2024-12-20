@@ -1,6 +1,6 @@
 import math
 
-# Nhập giá trị x từ bàn phím
+# Nhập giá trị x 
 x = float(input("Nhập giá trị của x: "))
 
 # Tính giá trị của biểu thức f(x)

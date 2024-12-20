@@ -69,3 +69,4 @@ a = "Helloworld123."
 
 # - kiểm tra chuỗi có phải aLphanumeric(chỉ có kí tự số và chữ hay không)
 print(a.isalnum())
+#- kiểm tra chuỗi có toàn chữ hay ko (character)
